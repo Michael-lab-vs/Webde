@@ -1,0 +1,16 @@
+.home-page
+{
+    background-image:url(snow_surfing.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+.about-page
+{
+    background-image:url(Lucas_Snow&&Dog.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
